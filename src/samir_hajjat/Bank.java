@@ -71,7 +71,7 @@ public class Bank {
 	
 	
 	public  String toString() {
-		return costumerCount+" costumer full name : "+name+" "+lastName+" AccountNumber: "+accountNumber;
+		return costumerCount+" customer full name : "+name+" "+lastName+" AccountNumber: "+accountNumber;
 	
 	}
 
